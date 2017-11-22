@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/switch_GUI.ui" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Filters.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MAC_table.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Controller.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Filters.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Switch_gui.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Port_sniffer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Port_sniffer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Switch_gui.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MAC_table.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/Debug/moc_ui_switch_GUI_old.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/Debug/moc_ui_switch_GUI_old.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/Debug/switch_automoc.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/Debug/switch_automoc.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/MinSizeRel/moc_ui_switch_GUI_old.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/MinSizeRel/moc_ui_switch_GUI_old.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/MinSizeRel/switch_automoc.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/MinSizeRel/switch_automoc.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/RelWithDebInfo/moc_ui_switch_GUI_old.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/RelWithDebInfo/moc_ui_switch_GUI_old.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/RelWithDebInfo/switch_automoc.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/RelWithDebInfo/switch_automoc.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/Release/moc_ui_switch_GUI_old.cxx">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/Release/moc_ui_switch_GUI_old.cxx" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/Release/switch_automoc.cpp">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/switch_project-b1624666/b1624666/Release/switch_automoc.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/share/qt4/mkspecs/default" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/share/qt4/mkspecs/default" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
